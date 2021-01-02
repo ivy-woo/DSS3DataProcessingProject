@@ -23,7 +23,7 @@ The tidied data will be produced in the directory.
 (The packages 'reshape2' and 'plyr' are needed. Please install them first if they are not already.)  
 
 
-The R script contains a handful of explanatory comments, which helps readers to follow the flow.
+The R script contains various explanatory comments, which helps readers to follow the flow.
 The 5 required tasks are labelled in the comments, showing that all tasks have been completed.  
 
 
