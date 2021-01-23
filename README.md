@@ -1,6 +1,6 @@
 # courseraDSS3project
 
-This is a reop for the course Getting and Cleaning Data on Coursera, the 3rd course from the Data Science Specialization.  
+This is a repo for the course Getting and Cleaning Data on Coursera, the 3rd course from the Data Science Specialization.  
 Here you find 3 files (other than this README.md), which are listed below:
 
 
