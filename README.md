@@ -1,10 +1,7 @@
-# courseraDSS3project
+# Data processing project
 
 This is a repo for the course Getting and Cleaning Data on Coursera, the 3rd course from the Data Science Specialization.  
 Here you find 3 files (other than this README.md), which are listed below:
-
-
-
 
 ### run_analysis.R
 This is the R script used to read in and tidy the data files provided from the course.  
